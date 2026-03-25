@@ -37,36 +37,8 @@ public class MainActivity extends AppCompatActivity {
         String reversed = reverseString("JNI is powerful!");
         tvInverse.setText("Texte inverse : " + reversed);
 
-        int[] numbers = {};
+        int[] numbers = {5, 15, 25, 35, 45};
         int sum = sumArray(numbers);
         tvSomme.setText("Somme du tableau = " + sum);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
