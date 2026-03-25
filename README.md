@@ -4,6 +4,10 @@ Emulateur utilisé : pixel 6
 API : 36
 
 
+
+https://github.com/user-attachments/assets/6be9a155-818b-4ce0-9dac-3d039de64780
+
+
 Démonstration:
 
 
